@@ -1,3 +1,2 @@
-a = int (input())
-
-print(a**2)
+#Home
+print("Hello, World!")
